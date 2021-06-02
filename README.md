@@ -4,7 +4,7 @@
 
 ## 👋 Introdução
 
-Sou um Desenvolvedor Front-End Jr. com conhecimentos em HTML, CSS, SCSS, JavaScript,
+Sou um Desenvolvedor Front-End com conhecimentos em HTML, CSS, SCSS, JavaScript,
 Typescript, React, Next.js, Node.js, Teste e com backgorund em animação e design.
 
 <div align="left">
