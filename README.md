@@ -1,5 +1,5 @@
 <div>
-  <img height="180em" src="assets/holymoses-capa.png"/>
+  <img src="assets/holymoses-capa.png"/>
 <div>
 
 ## 👋 Introdução
