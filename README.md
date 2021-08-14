@@ -33,7 +33,7 @@ Typescript, React, Next.js, Node.js, Teste e com backgorund em animação e desi
   ##
   
   ## 🌱 No momento estou aprendendo:
-  Atualmente estou fazendo o bootcamp da Rocketseat focado em React e NextJS e outras tecnologias e práticas do mercado atual.
+  GraphQL, Testes unitários, TDD.
   
   
   ## 📫 How to reach me:
