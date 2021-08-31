@@ -1,10 +1,10 @@
 <div>
-  <img src="assets/holymoses-capa.png"/>
+  <img src="assets/holymoses-capa.gif"/>
 <div>
 
 ## 👋 Introdução
 
-Sou um Desenvolvedor Front-End com conhecimentos em HTML, CSS, SCSS, JavaScript,
+Sou um Desenvolvedor Front-End utilizando HTML, CSS, SCSS, JavaScript,
 Typescript, React, Next.js, Node.js, Teste e com backgorund em animação e design.
 
 <div align="left">
@@ -12,7 +12,7 @@ Typescript, React, Next.js, Node.js, Teste e com backgorund em animação e desi
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holymos&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 
-## 💾 Conhecimento em:
+## 💾 Stack:
 
 <div style="display: inline_block"><br>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
