@@ -1,5 +1,5 @@
 <div>
-  <img src="assets/holymoses-capa.gif"/>
+  <img src="assets/holymoses-capa_v2.gif"/>
 <div>
 
 ## 👋 Introdução
