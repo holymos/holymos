@@ -38,7 +38,7 @@ Typescript, React, Next.js, Node.js, Teste e com backgorund em animação e desi
   ##
   
   ## 🌱 No momento estou aprendendo:
-  GraphQL, Testes unitários, TDD.
+  Serverless, DynamoDB, TDD
   
   
   ## 📫 How to reach me:
