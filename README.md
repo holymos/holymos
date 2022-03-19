@@ -10,9 +10,6 @@ Typescript, React, Next.js, Node.js, Teste e com backgorund em animação e desi
 <div>
   <a href="https://github.com/holymos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holymos&layout=compact&langs_count=16&theme=dracula"/>
-  
-  [![Moisés Pacífico's github stats](https://github-readme-stats.vercel.app/api?username=holymos&theme=dark&show_icons=true&count_private=true)](https://github.com/holymos)
-    
 <div>
 
 ## 💾 Stack:
