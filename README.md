@@ -1,10 +1,10 @@
 <div>
-  <img src="assets/holymoses-capa_v2.gif"/>
+  <img src="assets/holymoses-capa_en-us_v3.gif"/>
 <div>
 
-## 👋 Introdução
+## 👋 Intro
 
-Desenvolvedor Javascript | Typescript com experiência em webapps construídos com React | Next.js, microsserviços em Node.js | Serverless | AWS e testes automatizados com Jest | React Testing Library | Cypress
+Javascript | Typescript developer with experience building webapps using React | Next.js, microserices using Node.js | Serverless | AWS and automated tests with Jest | React Testing Library | Cypress.
 
 <div>
   <a href="https://github.com/holymos">
@@ -37,7 +37,7 @@ Desenvolvedor Javascript | Typescript com experiência em webapps construídos c
 
 
   
-  ## 📫 Contato:
+  ## 📫 Contact:
   
 <div>
   <a href = "mailto: moses.pacifico@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
