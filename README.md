@@ -11,7 +11,7 @@ Desenvolvedor Javascript | Typescript com experiência em webapps construídos c
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holymos&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 
-# 🛠 &nbsp;Stack
+## 🛠 &nbsp;Stack
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&color=282A36&logo=react)&nbsp;
 ![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&color=282A36&logo=nextdotjs)&nbsp;
@@ -37,7 +37,7 @@ Desenvolvedor Javascript | Typescript com experiência em webapps construídos c
 
 
   
-  ## 📫 How to reach me:
+  ## 📫 Contato:
   
 <div>
   <a href = "mailto: moses.pacifico@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
